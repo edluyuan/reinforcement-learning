@@ -1,2 +1,2 @@
 # COMP0089
-RL repo
+Reinforcement Learning (2025)
